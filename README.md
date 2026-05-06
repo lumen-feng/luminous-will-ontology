@@ -19,7 +19,7 @@ The work further explores how structural stability and manifestation may support
 
 ## Download
 
-- [PDF v1.0](./book/From Causal Production to Structural Constraint- Explanatory Roles, Emergence, and Ontological Stability 2.1.pdf)
+- [PDF v2.1](./book/From Causal Production to Structural Constraint- Explanatory Roles, Emergence, and Ontological Stability 2.1.pdf)
 
 ---
 

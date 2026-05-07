@@ -8,8 +8,9 @@ Public release of *The Luminous Will Ontology*.
 
 - Established the public monograph repository.
 - Added Chinese and English versions of the work.
-- Added formal abstract files.
-- Prepared repository structure for DOI registration, citation, figures, and future AI extensions.
+- Added Chinese and English abstracts.
+- Added public cover image.
+- Prepared repository structure for citation metadata, DOI registration, version history, figures, and references.
 
 ### Core themes
 

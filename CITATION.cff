@@ -6,8 +6,8 @@ authors:
     given-names: "Lumen"
 
 title: "The Luminous Will Ontology"
-version: "2.1"
-date-released: "2026-05-05"
+version: "2.1.1"
+date-released: "2026-05-07"
 license: "CC-BY-NC-SA-4.0"
 url: "https://github.com/lumen-feng/luminous-will-ontology"
 repository-code: "https://github.com/lumen-feng/luminous-will-ontology"

@@ -1,16 +1,22 @@
 cff-version: 1.2.0
 message: "If you use or cite this work, please cite it as below."
-type: book
-title: "The Luminous Will Ontology"
-subtitle: "From Causal Production to Structural Constraint: Explanatory Roles, Emergence, and Ontological Stability"
+
 authors:
   - family-names: "Feng"
     given-names: "Lumen"
-version: "2.1.1"
-date-released: 2026-05-05
+
+title: "The Luminous Will Ontology"
+version: "2.1"
+date-released: "2026-05-05"
 license: "CC-BY-NC-SA-4.0"
+url: "https://github.com/lumen-feng/luminous-will-ontology"
 repository-code: "https://github.com/lumen-feng/luminous-will-ontology"
-abstract: "This work develops a framework of explanation role differentiation based on causal production, structural constraint, and permissibility, and extends it toward a restrained layered ontology of manifestation and structural stability."
+
+abstract: >-
+  This work develops a framework of explanation role differentiation based on
+  causal production, structural constraint, and permissibility, and extends it
+  toward a restrained layered ontology of manifestation and structural stability.
+
 keywords:
   - explanation
   - causal production
@@ -19,3 +25,12 @@ keywords:
   - emergence
   - ontology
   - luminous will
+
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Feng"
+      given-names: "Lumen"
+  title: "From Causal Production to Structural Constraint: Explanatory Roles, Emergence, and Ontological Stability"
+  year: 2026
+  url: "https://github.com/lumen-feng/luminous-will-ontology"

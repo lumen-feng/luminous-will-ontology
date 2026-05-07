@@ -19,7 +19,7 @@ The work further explores how structural stability and manifestation may support
 
 ## Download
 
-- [PDF v2.1](./book/From Causal Production to Structural Constraint- Explanatory Roles, Emergence, and Ontological Stability 2.1.pdf)
+- [PDF_English v2.1](https://github.com/lumen-feng/luminous-will-ontology/blob/main/book/From%20Causal%20Production%20to%20Structural%20Constraint%EF%BC%9AExplanatory%20Roles%2C%20Emergence%2C%20and%20Ontological%20Stability.%20Revised%20Edition%202.1.pdf)
 
 ---
 

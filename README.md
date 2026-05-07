@@ -38,7 +38,7 @@ The work further explores how structural stability and manifestation may support
 ## Status
 
 Public Release v2.1  
-2026-05
+2026-05-05
 
 ---
 

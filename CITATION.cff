@@ -6,24 +6,33 @@ authors:
     given-names: "Lumen"
 
 title: "The Luminous Will Ontology"
-version: "2.1.1"
+version: "v2.1.2"
 date-released: "2026-05-07"
 license: "CC-BY-NC-SA-4.0"
-url: "https://github.com/lumen-feng/luminous-will-ontology"
+doi: "10.5281/zenodo.20062350"
+url: "https://doi.org/10.5281/zenodo.20062350"
 repository-code: "https://github.com/lumen-feng/luminous-will-ontology"
 
 abstract: >-
-  This work develops a framework of explanation role differentiation based on
-  causal production, structural constraint, and permissibility, and extends it
-  toward a restrained layered ontology of manifestation and structural stability.
+  This monograph develops a framework of explanation role differentiation based
+  on causal production, structural constraint, and permissibility. It argues
+  that many persistent difficulties concerning emergence, higher-level
+  explanation, quantum correlation, and ontological stability arise from the
+  premature reduction of explanation to causal production. The work further
+  develops a restrained layered ontology centered on stable manifestation,
+  non-personal directedness, and structural organization.
 
 keywords:
   - explanation
+  - explanatory roles
   - causal production
   - structural constraint
   - permissibility
   - emergence
+  - higher-level explanation
   - ontology
+  - ontological stability
+  - layered ontology
   - luminous will
 
 preferred-citation:
@@ -33,4 +42,9 @@ preferred-citation:
       given-names: "Lumen"
   title: "From Causal Production to Structural Constraint: Explanatory Roles, Emergence, and Ontological Stability"
   year: 2026
-  url: "https://github.com/lumen-feng/luminous-will-ontology"
+  date-published: "2026-05-07"
+  version: "v2.1.2"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.20062350"
+  url: "https://doi.org/10.5281/zenodo.20062350"

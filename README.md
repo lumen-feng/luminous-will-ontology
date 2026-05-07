@@ -3,7 +3,7 @@
 ## From Causal Production to Structural Constraint  
 ### Explanatory Roles, Emergence, and Ontological Stability
 
-**Author:** Lumen Feng（冯鲁门）  
+**Author:** Lumen Feng （冯鲁门）  
 **Version:** v2.1  
 **Status:** Public release  
 **License:** CC BY-NC-SA 4.0
@@ -55,32 +55,9 @@ On this basis, the work develops a restrained layered ontology centered on stabl
 
 ## Repository Structure
 
+```text
 book/         Full PDF versions and cover files
 abstracts/    Chinese and English abstracts
 figures/      Conceptual maps and diagrams
 versions/     Changelog and version history
 references/   Bibliography and cited works
-
-##Citation
-
-Citation metadata is provided in CITATION.cff
-
-
-DOI will be added after Zenodo registration.
-
-##Version History
-
-See versions/changelog.md
-
-
-##License
-
-This work is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-See LICENSE
-
-
-Commit message：
-
-```text
-Update README for formal public release

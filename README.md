@@ -30,8 +30,8 @@ On this basis, the work develops a restrained layered ontology centered on stabl
 
 ## Download
 
-- [English PDF v2.1](./book/Luminous-Will-Ontology-v2.1-en.pdf)
-- [Chinese PDF v2.1](./book/Luminous-Will-Ontology-v2.1-cn.pdf)
+- [English PDF v2.1](./book/The-Luminous-Will-Ontology-v2.1-en.pdf)
+- [Chinese PDF v2.1](./book/The-Luminous-Will-Ontology-v2.1-cn.pdf)
 
 ---
 

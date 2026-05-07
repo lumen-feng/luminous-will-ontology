@@ -53,6 +53,16 @@ On this basis, the work develops a restrained layered ontology centered on stabl
 
 ---
 
+## DOI
+
+Book DOI: [10.5281/zenodo.20062350](https://doi.org/10.5281/zenodo.20062350)
+
+All versions DOI: [10.5281/zenodo.20062349](https://doi.org/10.5281/zenodo.20062349)
+
+Repository Archive DOI: [10.5281/zenodo.20061659](https://doi.org/10.5281/zenodo.20061659)
+
+---
+
 ## Repository Structure
 
 ```text

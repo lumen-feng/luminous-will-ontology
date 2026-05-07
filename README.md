@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20062350.svg)](https://doi.org/10.5281/zenodo.20062350)
+
 # The Luminous Will Ontology
 
 ## From Causal Production to Structural Constraint  

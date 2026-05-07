@@ -1,19 +1,26 @@
 # The Luminous Will Ontology
 
-## From Causal Production to Structural Constraint:
+## From Causal Production to Structural Constraint  
 ### Explanatory Roles, Emergence, and Ontological Stability
 
-Author: Lumen Feng（冯鲁门）
+**Author:** Lumen Feng （冯鲁门）  
+**Version:** v2.1  
+**Status:** Public release  
+**License:** CC BY-NC-SA 4.0
 
 ---
 
-## Abstract
+## Overview
 
-This work develops a framework of explanation role differentiation based on causal production, structural constraint, and permissibility.
+This repository hosts the public release of *The Luminous Will Ontology*, a theoretical monograph on explanation role differentiation, structural constraint, emergence, and ontological stability.
 
-It argues that many philosophical conflicts concerning emergence, higher-level explanation, and ontology arise not from reality itself, but from the premature reduction of explanatory roles into causal production alone.
+The work argues that many persistent philosophical difficulties arise not from reality being unintelligible, but from the premature reduction of explanation to causal production alone. It proposes a multi-role framework of explanation based on:
 
-The work further explores how structural stability and manifestation may support a restrained layered ontology.
+- **Causal Production**
+- **Structural Constraint**
+- **Permissibility**
+
+On this basis, the work develops a restrained layered ontology centered on stable manifestation, non-personal directedness, and structural organization.
 
 ---
 
@@ -24,16 +31,37 @@ The work further explores how structural stability and manifestation may support
 
 ---
 
+If the file names differ in the current repository, please use the files inside the [`book/`](./book/) folder.
+
+---
+
+## Abstracts
+
+- [English Abstract](./abstracts/abstract-en.md)
+- [Chinese Abstract](./abstracts/abstract-cn.md)
+
+---
+
 ## Core Concepts
 
+- Explanation Role Differentiation
 - Causal Production
 - Structural Constraint
 - Permissibility
 - Stable Manifestation
-- Layered Ontology
 - Non-personal Directedness
+- Layered Ontology
+- Ontological Restraint
 
 ---
+
+## Repository Structure
+
+book/         Full PDF versions and cover files
+abstracts/    Chinese and English abstracts
+figures/      Conceptual maps and diagrams
+versions/     Changelog and version history
+references/   Bibliography and cited works
 
 ## Status
 
